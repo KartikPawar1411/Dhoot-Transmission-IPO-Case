@@ -1,0 +1,68 @@
+field,value,unit,source_url,source_page,source_date,notes
+company_name,Dhoot Transmission Limited,text,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,cover,2026-08-13,
+nse_symbol,DHOOTTRANS,text,https://www.nseindia.com/api/ipo-detail?symbol=DHOOTTRANS&series=EQ,Issue information,2026-08-12,
+isin,INE01NH01023,text,https://www.nseindia.com/api/ipo-detail?symbol=DHOOTTRANS&series=EQ,metaInfo,2026-08-12,
+face_value,2,INR/share,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,96,2026-08-13,
+price_band_low,829,INR/share,https://nsearchives.nseindia.com/content/ipo/RATIOS_DHOOTTRANS.zip,Financial Express p.18,2026-08-04,Price band advertisement (Dhoot Transmission PB ad FE.pdf inside zip)
+price_band_high,871,INR/share,https://nsearchives.nseindia.com/content/ipo/RATIOS_DHOOTTRANS.zip,Financial Express p.18,2026-08-04,Price band advertisement (Dhoot Transmission PB ad FE.pdf inside zip)
+final_issue_price,871,INR/share,https://nsearchives.nseindia.com/corporate/ADV_INE01NH01023_14AUG2026.pdf,1,2026-08-14,Offer price and anchor price both 871
+employee_discount,80,INR/share,https://nsearchives.nseindia.com/corporate/ADV_INE01NH01023_14AUG2026.pdf,1,2026-08-14,Employees paid 791
+lot_size,17,shares,https://www.nseindia.com/api/ipo-detail?symbol=DHOOTTRANS&series=EQ,Bid Lot,2026-08-12,
+fresh_issue_amount,14000.0,INR mn,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,96,2026-08-13,Net of employee discount
+fresh_issue_shares,16080445,shares,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,96,2026-08-13,
+ofs_amount,16668.85,INR mn,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,96,2026-08-13,
+ofs_shares,19137602,shares,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,96,2026-08-13,
+total_offer_amount,30668.85,INR mn,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,96,2026-08-13,
+total_offer_shares,35218047,shares,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,96,2026-08-13,Also the basis of allotment table total
+employee_reservation_shares,75853,shares,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,96,2026-08-13,
+net_offer_shares,35142194,shares,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,96,2026-08-13,
+ofs_shares_bc_asia_xv,16018769,shares,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,cover,2026-08-13,"BC Asia Investments XV Limited (Bain Capital), promoter selling shareholder"
+waca_bc_asia_xv,480.34,INR/share,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,cover,2026-08-13,Weighted average cost of acquisition
+ofs_shares_mangalam_capital,3118833,shares,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,cover,2026-08-13,"Mangalam Capital Private Limited, promoter group selling shareholder"
+waca_mangalam_capital,4.81,INR/share,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,cover,2026-08-13,Weighted average cost of acquisition
+bc_asia_tranche2_price,461.22,INR/share,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,cover,2026-08-13,Pre-IPO primary issue to BC Asia XV dated 2026-03-20
+bc_asia_tranche2_shares,22170945,shares,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,cover,2026-08-13,Pre-IPO primary issue to BC Asia XV dated 2026-03-20
+pre_issue_shares,188467612,shares,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,96,2026-08-13,
+post_issue_shares,204548057,shares,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,96,2026-08-13,
+promoter_shares_pre,159943945,shares,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,110,2026-08-13,BC Asia XV + Rahul Radhavallabh Dhoot
+promoter_pct_pre,84.87,%,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,110,2026-08-13,
+promoter_shares_post,143925176,shares,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,110,2026-08-13,At upper end of price band
+promoter_pct_post,70.36,%,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,110,2026-08-13,At upper end of price band
+promoter_group_shares_pre,28512167,shares,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,110,2026-08-13,
+promoter_group_pct_pre,15.13,%,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,110,2026-08-13,
+promoter_group_shares_post,25393334,shares,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,110,2026-08-13,At upper end of price band
+promoter_group_pct_post,12.41,%,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,110,2026-08-13,At upper end of price band
+gross_fresh_proceeds,14000.0,INR mn,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,117,2026-08-13,
+fresh_issue_expenses,730.19,INR mn,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,117,2026-08-13,Offer expenses apportioned to the company
+net_proceeds,13269.81,INR mn,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,117-118,2026-08-13,
+total_offer_expenses,1599.59,INR mn,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,159-160,2026-08-13,5.22% of offer size
+brlm_fees,859.9,INR mn,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,159-160,2026-08-13,"Incl. underwriting, brokerage and selling commission"
+object_repay_company_debt,4648.02,INR mn,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,117,2026-08-13,
+object_repay_subsidiary_debt,3017.73,INR mn,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,117,2026-08-13,"Via investment in Dhoot Autocomponents, Dhoot Automotive Systems and Dhoot Transmission UK"
+object_new_plants,1500.0,INR mn,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,117-118,2026-08-13,Jhajjar (Haryana) and Hosur (Tamil Nadu) wiring harness plants
+object_gcp_and_inorganic,4104.06,INR mn,https://nsearchives.nseindia.com/corporate/FP_INE01NH01023_13AUG2026.pdf,118,2026-08-13,Unidentified acquisitions and general corporate purposes
+consolidated_borrowings_2026_07_20,9147.75,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,480,2026-08-03,"Total borrowings, company and subsidiaries"
+anchor_shares,10542657,shares,https://nsearchives.nseindia.com/content/ipo/ANCHOR_DHOOTTRANS.zip,1-6,2026-08-07,DTL_Anchor_allocation_Outcome.pdf inside zip
+anchor_amount,9182.654247,INR mn,https://nsearchives.nseindia.com/content/ipo/ANCHOR_DHOOTTRANS.zip,1-6,2026-08-07,
+anchor_investor_count,36,count,https://nsearchives.nseindia.com/corporate/ADV_INE01NH01023_14AUG2026.pdf,1,2026-08-14,72 applications
+anchor_mf_shares,6459984,shares,https://nsearchives.nseindia.com/corporate/ADV_INE01NH01023_14AUG2026.pdf,2,2026-08-14,18 domestic MFs through 46 schemes
+anchor_insurance_shares,921895,shares,https://nsearchives.nseindia.com/corporate/ADV_INE01NH01023_14AUG2026.pdf,2,2026-08-14,
+anchor_fpi_shares,2640746,shares,https://nsearchives.nseindia.com/corporate/ADV_INE01NH01023_14AUG2026.pdf,2,2026-08-14,
+anchor_aif_shares,432243,shares,https://nsearchives.nseindia.com/corporate/ADV_INE01NH01023_14AUG2026.pdf,2,2026-08-14,
+anchor_nbfc_shares,87789,shares,https://nsearchives.nseindia.com/corporate/ADV_INE01NH01023_14AUG2026.pdf,2,2026-08-14,
+net_qib_shares_allotted,7028439,shares,https://nsearchives.nseindia.com/corporate/ADV_INE01NH01023_14AUG2026.pdf,2,2026-08-14,QIB portion excluding anchors
+retail_shares_reserved,12299768,shares,https://nsearchives.nseindia.com/corporate/ADV_INE01NH01023_14AUG2026.pdf,1,2026-08-14,
+nii_small_shares_reserved,1757110,shares,https://nsearchives.nseindia.com/corporate/ADV_INE01NH01023_14AUG2026.pdf,1,2026-08-14,Bids above 0.2m up to 1.0m
+nii_large_shares_reserved,3514220,shares,https://nsearchives.nseindia.com/corporate/ADV_INE01NH01023_14AUG2026.pdf,1,2026-08-14,Bids above 1.0m
+brlms,Axis Capital; Jefferies India; Kotak Mahindra Capital; Nomura Financial Advisory and Securities (India); SBI Capital Markets; 360 ONE WAM,text,https://www.nseindia.com/api/ipo-detail?symbol=DHOOTTRANS&series=EQ,Book Running Lead Managers,2026-08-12,
+registrar,KFin Technologies Limited,text,https://www.nseindia.com/api/ipo-detail?symbol=DHOOTTRANS&series=EQ,Name of the Registrar,2026-08-12,
+date_rhp,2026-08-03,date,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,cover,2026-08-03,
+date_price_band_announcement,2026-08-04,date,https://nsearchives.nseindia.com/content/ipo/RATIOS_DHOOTTRANS.zip,Financial Express p.18,2026-08-04,Peer prices taken at NSE close on this date
+date_anchor_bidding,2026-08-07,date,https://nsearchives.nseindia.com/corporate/ADV_INE01NH01023_14AUG2026.pdf,1,2026-08-14,
+date_bid_open,2026-08-10,date,https://nsearchives.nseindia.com/corporate/ADV_INE01NH01023_14AUG2026.pdf,1,2026-08-14,
+date_bid_close,2026-08-12,date,https://nsearchives.nseindia.com/corporate/ADV_INE01NH01023_14AUG2026.pdf,1,2026-08-14,
+date_allotment,2026-08-13,date,https://nsearchives.nseindia.com/corporate/ADV_INE01NH01023_14AUG2026.pdf,2,2026-08-14,Board took basis of allotment on record
+date_prospectus,2026-08-13,date,https://www.nseindia.com/api/corporates/offerdocs?index=equities&company=Dhoot%20Transmission%20Limited,fpDate,2026-08-13,
+date_listing,2026-08-17,date,https://www.nseindia.com/api/ipo-detail?symbol=DHOOTTRANS&series=EQ,metaInfo.listingDate,2026-08-12,
+rhp_cap_price_pe,35.7,x,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,163,2026-08-03,Cap price / FY26 diluted EPS 24.40 (pre-issue weighted average shares)
+rhp_peer_average_pe,55.31,x,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,163,2026-08-03,Peer closes on BSE on 2026-07-31

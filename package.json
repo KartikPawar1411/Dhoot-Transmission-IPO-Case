@@ -1,0 +1,21 @@
+{
+  "name": "dhoot-ipo-case",
+  "version": "1.0.0",
+  "description": "Builds the Dhoot IPO case deck",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "deck": "node build_deck.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "pptxgenjs": "^3.12.0"
+  },
+  "private": true
+}

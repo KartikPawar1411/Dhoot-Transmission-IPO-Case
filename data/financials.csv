@@ -1,0 +1,56 @@
+metric,fiscal_year,value,unit,source_url,source_page,source_date,notes
+revenue_from_operations,FY2024,27977.26,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,76; 458,2026-08-03,
+revenue_from_operations,FY2025,34448.63,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,76; 458,2026-08-03,
+revenue_from_operations,FY2026,45249.55,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,76; 458,2026-08-03,
+other_income,FY2024,15.89,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,76; 458,2026-08-03,
+other_income,FY2025,273.73,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,76; 458,2026-08-03,
+other_income,FY2026,387.45,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,76; 458,2026-08-03,
+ebitda,FY2024,5123.98,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,457-458,2026-08-03,RHP definition: PBT before exceptional items + finance costs + D&A - other income
+ebitda,FY2025,5909.63,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,457-458,2026-08-03,RHP definition: PBT before exceptional items + finance costs + D&A - other income
+ebitda,FY2026,7109.89,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,457-458,2026-08-03,RHP definition: PBT before exceptional items + finance costs + D&A - other income
+adjusted_ebitda,FY2024,5123.98,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,457-458,2026-08-03,FY25 adds back 114.50 stamp duty on restructuring
+adjusted_ebitda,FY2025,6024.13,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,457-458,2026-08-03,FY25 adds back 114.50 stamp duty on restructuring
+adjusted_ebitda,FY2026,7109.89,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,457-458,2026-08-03,FY25 adds back 114.50 stamp duty on restructuring
+finance_costs,FY2024,494.71,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,458,2026-08-03,
+finance_costs,FY2025,674.65,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,458,2026-08-03,
+finance_costs,FY2026,912.44,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,458,2026-08-03,
+depreciation_amortisation,FY2024,763.85,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,458,2026-08-03,
+depreciation_amortisation,FY2025,932.77,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,458,2026-08-03,
+depreciation_amortisation,FY2026,1225.44,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,458,2026-08-03,
+pbt_before_exceptional,FY2024,3881.31,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,76; 458,2026-08-03,
+pbt_before_exceptional,FY2025,4575.94,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,76; 458,2026-08-03,
+pbt_before_exceptional,FY2026,5359.46,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,76; 458,2026-08-03,
+pat,FY2024,2987.48,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,76; 458,2026-08-03,Restated profit for the year
+pat,FY2025,3538.87,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,76; 458,2026-08-03,Restated profit for the year
+pat,FY2026,3968.42,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,76; 458,2026-08-03,Restated profit for the year
+pat_attributable_to_owners,FY2024,2987.4,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,457,2026-08-03,
+pat_attributable_to_owners,FY2025,3539.03,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,457,2026-08-03,
+pat_attributable_to_owners,FY2026,3966.54,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,457,2026-08-03,
+net_worth,FY2024,7410.13,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,457-458,2026-08-03,RHP Net Worth definition (excludes capital reserve and FCTR)
+net_worth,FY2025,9781.78,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,457-458,2026-08-03,RHP Net Worth definition (excludes capital reserve and FCTR)
+net_worth,FY2026,23971.51,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,457-458,2026-08-03,RHP Net Worth definition (excludes capital reserve and FCTR)
+equity_attributable_to_owners,FY2024,7482.56,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,74; 458,2026-08-03,
+equity_attributable_to_owners,FY2025,9935.68,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,74; 458,2026-08-03,
+equity_attributable_to_owners,FY2026,24343.42,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,74; 458,2026-08-03,
+non_controlling_interest,FY2024,9.08,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,74,2026-08-03,
+non_controlling_interest,FY2025,4.14,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,74,2026-08-03,
+non_controlling_interest,FY2026,6.09,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,74,2026-08-03,
+total_borrowings,FY2024,5548.97,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,459,2026-08-03,
+total_borrowings,FY2025,7760.56,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,459,2026-08-03,
+total_borrowings,FY2026,8413.92,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,459,2026-08-03,
+lease_liabilities,FY2024,212.51,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,459,2026-08-03,Non-current plus current lease liabilities
+lease_liabilities,FY2025,388.82,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,459,2026-08-03,Non-current plus current lease liabilities
+lease_liabilities,FY2026,768.99,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,459,2026-08-03,Non-current plus current lease liabilities
+cash_and_equivalents,FY2024,304.02,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,459,2026-08-03,"FY26 includes 10,225.61 from BC Asia Tranche 2 not yet deployed (p.459)"
+cash_and_equivalents,FY2025,464.47,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,459,2026-08-03,"FY26 includes 10,225.61 from BC Asia Tranche 2 not yet deployed (p.459)"
+cash_and_equivalents,FY2026,10842.82,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,459,2026-08-03,"FY26 includes 10,225.61 from BC Asia Tranche 2 not yet deployed (p.459)"
+other_bank_balances,FY2024,370.48,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,459,2026-08-03,
+other_bank_balances,FY2025,63.42,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,459,2026-08-03,
+other_bank_balances,FY2026,115.66,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,459,2026-08-03,
+net_debt_rhp,FY2024,5086.98,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,459,2026-08-03,RHP definition: borrowings + lease liabilities - cash - other bank balances
+net_debt_rhp,FY2025,7621.49,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,459,2026-08-03,RHP definition: borrowings + lease liabilities - cash - other bank balances
+net_debt_rhp,FY2026,-1775.57,INR mn,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,459,2026-08-03,RHP definition: borrowings + lease liabilities - cash - other bank balances
+diluted_eps,FY2024,20.83,INR/share,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,457,2026-08-03,Weighted average shares
+diluted_eps,FY2025,24.31,INR/share,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,457,2026-08-03,Weighted average shares
+diluted_eps,FY2026,24.4,INR/share,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,457,2026-08-03,Weighted average shares
+stub_period,n/a,,,https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1785825527649.pdf,73,2026-08-03,NOT APPLICABLE: RHP restated financials end 2026-03-31; no stub period

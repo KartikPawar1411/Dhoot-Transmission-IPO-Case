@@ -1,0 +1,19 @@
+label,target_date,date,series,close,source_url,source_page,source_date,notes
+Pricing (bid close),2026-08-12,2026-08-12,DHOOTTRANS,871,https://nsearchives.nseindia.com/corporate/ADV_INE01NH01023_14AUG2026.pdf,1,2026-08-14,Issue price used as the base; not a traded close
+Pricing (bid close),2026-08-12,2026-08-12,NIFTY 50,24435.95,https://www.nseindia.com/api/historicalOR/indicesHistory?indexType=NIFTY%2050,EOD close,2026-08-12,
+Pricing (bid close),2026-08-12,2026-08-12,NIFTY AUTO,29363.05,https://www.nseindia.com/api/historicalOR/indicesHistory?indexType=NIFTY%20AUTO,EOD close,2026-08-12,
+Listing day,2026-08-17,2026-08-17,DHOOTTRANS,1187.05,https://www.nseindia.com/api/historicalOR/generateSecurityWiseHistoricalData?symbol=DHOOTTRANS&series=ALL&type=priceVolumeDeliverable,EOD close,2026-08-17,
+Listing day,2026-08-17,2026-08-17,NIFTY 50,24287.65,https://www.nseindia.com/api/historicalOR/indicesHistory?indexType=NIFTY%2050,EOD close,2026-08-17,
+Listing day,2026-08-17,2026-08-17,NIFTY AUTO,29178.1,https://www.nseindia.com/api/historicalOR/indicesHistory?indexType=NIFTY%20AUTO,EOD close,2026-08-17,
++30 days,2026-09-16,2026-09-16,DHOOTTRANS,1590.9,https://www.nseindia.com/api/historicalOR/generateSecurityWiseHistoricalData?symbol=DHOOTTRANS&series=ALL&type=priceVolumeDeliverable,EOD close,2026-09-16,
++30 days,2026-09-16,2026-09-16,NIFTY 50,23217.6,https://www.nseindia.com/api/historicalOR/indicesHistory?indexType=NIFTY%2050,EOD close,2026-09-16,
++30 days,2026-09-16,2026-09-16,NIFTY AUTO,26893.65,https://www.nseindia.com/api/historicalOR/indicesHistory?indexType=NIFTY%20AUTO,EOD close,2026-09-16,
++90 days,2026-11-15,,DHOOTTRANS,,https://www.nseindia.com/api/historicalOR/generateSecurityWiseHistoricalData?symbol=DHOOTTRANS&series=ALL&type=priceVolumeDeliverable,EOD close,,NOT YET ELAPSED: target 2026-11-15 is a Sunday; use the close on 2026-11-16
++90 days,2026-11-15,,NIFTY 50,,https://www.nseindia.com/api/historicalOR/indicesHistory?indexType=NIFTY%2050,EOD close,,NOT YET ELAPSED: target 2026-11-15 is a Sunday; use the close on 2026-11-16
++90 days,2026-11-15,,NIFTY AUTO,,https://www.nseindia.com/api/historicalOR/indicesHistory?indexType=NIFTY%20AUTO,EOD close,,NOT YET ELAPSED: target 2026-11-15 is a Sunday; use the close on 2026-11-16
++180 days,2027-02-13,,DHOOTTRANS,,https://www.nseindia.com/api/historicalOR/generateSecurityWiseHistoricalData?symbol=DHOOTTRANS&series=ALL&type=priceVolumeDeliverable,EOD close,,NOT YET ELAPSED: target 2027-02-13 is a Saturday; use the close on 2027-02-15
++180 days,2027-02-13,,NIFTY 50,,https://www.nseindia.com/api/historicalOR/indicesHistory?indexType=NIFTY%2050,EOD close,,NOT YET ELAPSED: target 2027-02-13 is a Saturday; use the close on 2027-02-15
++180 days,2027-02-13,,NIFTY AUTO,,https://www.nseindia.com/api/historicalOR/indicesHistory?indexType=NIFTY%20AUTO,EOD close,,NOT YET ELAPSED: target 2027-02-13 is a Saturday; use the close on 2027-02-15
+Latest (+87 days),2026-11-12,2026-11-12,DHOOTTRANS,1626.8,https://www.nseindia.com/api/historicalOR/generateSecurityWiseHistoricalData?symbol=DHOOTTRANS&series=ALL&type=priceVolumeDeliverable,EOD close,2026-11-12,Latest close available when built (2026-11-13); extra to the requested checkpoints
+Latest (+87 days),2026-11-12,2026-11-12,NIFTY 50,25299.35,https://www.nseindia.com/api/historicalOR/indicesHistory?indexType=NIFTY%2050,EOD close,2026-11-12,Latest close available when built (2026-11-13); extra to the requested checkpoints
+Latest (+87 days),2026-11-12,2026-11-12,NIFTY AUTO,28231.0,https://www.nseindia.com/api/historicalOR/indicesHistory?indexType=NIFTY%20AUTO,EOD close,2026-11-12,Latest close available when built (2026-11-13); extra to the requested checkpoints

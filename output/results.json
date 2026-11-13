@@ -1,0 +1,436 @@
+{
+ "terms": {
+  "company_name": "Dhoot Transmission Limited",
+  "nse_symbol": "DHOOTTRANS",
+  "isin": "INE01NH01023",
+  "face_value": 2.0,
+  "price_band_low": 829.0,
+  "price_band_high": 871.0,
+  "final_issue_price": 871.0,
+  "employee_discount": 80.0,
+  "lot_size": 17.0,
+  "fresh_issue_amount": 14000.0,
+  "fresh_issue_shares": 16080445.0,
+  "ofs_amount": 16668.85,
+  "ofs_shares": 19137602.0,
+  "total_offer_amount": 30668.85,
+  "total_offer_shares": 35218047.0,
+  "employee_reservation_shares": 75853.0,
+  "net_offer_shares": 35142194.0,
+  "ofs_shares_bc_asia_xv": 16018769.0,
+  "waca_bc_asia_xv": 480.34,
+  "ofs_shares_mangalam_capital": 3118833.0,
+  "waca_mangalam_capital": 4.81,
+  "bc_asia_tranche2_price": 461.22,
+  "bc_asia_tranche2_shares": 22170945.0,
+  "pre_issue_shares": 188467612.0,
+  "post_issue_shares": 204548057.0,
+  "promoter_shares_pre": 159943945.0,
+  "promoter_pct_pre": 84.87,
+  "promoter_shares_post": 143925176.0,
+  "promoter_pct_post": 70.36,
+  "promoter_group_shares_pre": 28512167.0,
+  "promoter_group_pct_pre": 15.13,
+  "promoter_group_shares_post": 25393334.0,
+  "promoter_group_pct_post": 12.41,
+  "gross_fresh_proceeds": 14000.0,
+  "fresh_issue_expenses": 730.19,
+  "net_proceeds": 13269.81,
+  "total_offer_expenses": 1599.59,
+  "brlm_fees": 859.9,
+  "object_repay_company_debt": 4648.02,
+  "object_repay_subsidiary_debt": 3017.73,
+  "object_new_plants": 1500.0,
+  "object_gcp_and_inorganic": 4104.06,
+  "consolidated_borrowings_2026_07_20": 9147.75,
+  "anchor_shares": 10542657.0,
+  "anchor_amount": 9182.654247,
+  "anchor_investor_count": 36.0,
+  "anchor_mf_shares": 6459984.0,
+  "anchor_insurance_shares": 921895.0,
+  "anchor_fpi_shares": 2640746.0,
+  "anchor_aif_shares": 432243.0,
+  "anchor_nbfc_shares": 87789.0,
+  "net_qib_shares_allotted": 7028439.0,
+  "retail_shares_reserved": 12299768.0,
+  "nii_small_shares_reserved": 1757110.0,
+  "nii_large_shares_reserved": 3514220.0,
+  "brlms": "Axis Capital; Jefferies India; Kotak Mahindra Capital; Nomura Financial Advisory and Securities (India); SBI Capital Markets; 360 ONE WAM",
+  "registrar": "KFin Technologies Limited",
+  "date_rhp": "2026-08-03",
+  "date_price_band_announcement": "2026-08-04",
+  "date_anchor_bidding": "2026-08-07",
+  "date_bid_open": "2026-08-10",
+  "date_bid_close": "2026-08-12",
+  "date_allotment": "2026-08-13",
+  "date_prospectus": "2026-08-13",
+  "date_listing": "2026-08-17",
+  "rhp_cap_price_pe": 35.7,
+  "rhp_peer_average_pe": 55.31
+ },
+ "financials": {
+  "revenue_from_operations": {
+   "FY2024": 27977.26,
+   "FY2025": 34448.63,
+   "FY2026": 45249.55
+  },
+  "other_income": {
+   "FY2024": 15.89,
+   "FY2025": 273.73,
+   "FY2026": 387.45
+  },
+  "ebitda": {
+   "FY2024": 5123.98,
+   "FY2025": 5909.63,
+   "FY2026": 7109.89
+  },
+  "adjusted_ebitda": {
+   "FY2024": 5123.98,
+   "FY2025": 6024.13,
+   "FY2026": 7109.89
+  },
+  "finance_costs": {
+   "FY2024": 494.71,
+   "FY2025": 674.65,
+   "FY2026": 912.44
+  },
+  "depreciation_amortisation": {
+   "FY2024": 763.85,
+   "FY2025": 932.77,
+   "FY2026": 1225.44
+  },
+  "pbt_before_exceptional": {
+   "FY2024": 3881.31,
+   "FY2025": 4575.94,
+   "FY2026": 5359.46
+  },
+  "pat": {
+   "FY2024": 2987.48,
+   "FY2025": 3538.87,
+   "FY2026": 3968.42
+  },
+  "pat_attributable_to_owners": {
+   "FY2024": 2987.4,
+   "FY2025": 3539.03,
+   "FY2026": 3966.54
+  },
+  "net_worth": {
+   "FY2024": 7410.13,
+   "FY2025": 9781.78,
+   "FY2026": 23971.51
+  },
+  "equity_attributable_to_owners": {
+   "FY2024": 7482.56,
+   "FY2025": 9935.68,
+   "FY2026": 24343.42
+  },
+  "non_controlling_interest": {
+   "FY2024": 9.08,
+   "FY2025": 4.14,
+   "FY2026": 6.09
+  },
+  "total_borrowings": {
+   "FY2024": 5548.97,
+   "FY2025": 7760.56,
+   "FY2026": 8413.92
+  },
+  "lease_liabilities": {
+   "FY2024": 212.51,
+   "FY2025": 388.82,
+   "FY2026": 768.99
+  },
+  "cash_and_equivalents": {
+   "FY2024": 304.02,
+   "FY2025": 464.47,
+   "FY2026": 10842.82
+  },
+  "other_bank_balances": {
+   "FY2024": 370.48,
+   "FY2025": 63.42,
+   "FY2026": 115.66
+  },
+  "net_debt_rhp": {
+   "FY2024": 5086.98,
+   "FY2025": 7621.49,
+   "FY2026": -1775.57
+  },
+  "diluted_eps": {
+   "FY2024": 20.83,
+   "FY2025": 24.31,
+   "FY2026": 24.4
+  }
+ },
+ "valuation": {
+  "lower_band": {
+   "price": 829.0,
+   "post_shares": 205355428.0,
+   "market_cap": 17023.9649812,
+   "net_debt_pre": -254.45599999999996,
+   "net_debt_post": -1581.437,
+   "nci": 0.609,
+   "ev": 15443.1369812,
+   "pe": 42.91892929656577,
+   "ev_ebitda": 21.720641221172198,
+   "ev_sales": 3.412881891908317,
+   "pb": 4.526057714586065,
+   "pe_rhp_basis": 33.97540983606557
+  },
+  "upper_band": {
+   "price": 871.0,
+   "post_shares": 204548057.0,
+   "market_cap": 17816.1357647,
+   "net_debt_pre": -254.45599999999996,
+   "net_debt_post": -1581.437,
+   "nci": 0.609,
+   "ev": 16235.307764700001,
+   "pe": 44.91606227266081,
+   "ev_ebitda": 22.834822711321834,
+   "ev_sales": 3.587948999426514,
+   "pb": 4.736667328144912,
+   "pe_rhp_basis": 35.696721311475414
+  },
+  "final_price": {
+   "price": 871.0,
+   "post_shares": 204548057.0,
+   "market_cap": 17816.1357647,
+   "net_debt_pre": -254.45599999999996,
+   "net_debt_post": -1581.437,
+   "nci": 0.609,
+   "ev": 16235.307764700001,
+   "pe": 44.91606227266081,
+   "ev_ebitda": 22.834822711321834,
+   "ev_sales": 3.587948999426514,
+   "pb": 4.736667328144912,
+   "pe_rhp_basis": 35.696721311475414
+  }
+ },
+ "peers": {
+  "MINDACORP": {
+   "name": "Minda Corporation Limited",
+   "price": 722.2,
+   "shares": 239079428.0,
+   "market_cap": 17266.31629016,
+   "net_debt": 1065.09,
+   "nci": 15.01,
+   "ev": 18346.41629016,
+   "ebitda": 721.09,
+   "revenue": 6185.34,
+   "ebitda_margin": 0.11658049517083943,
+   "pe": 47.92302587923026,
+   "ev_ebitda": 25.44261644199753,
+   "ev_sales": 2.966112823249813,
+   "pb": 6.5315872798514105
+  },
+  "UNOMINDA": {
+   "name": "UNO Minda Limited",
+   "price": 1227.0,
+   "shares": 577467206.0,
+   "market_cap": 70855.2261762,
+   "net_debt": 2179.16,
+   "nci": 430.9,
+   "ev": 73465.2861762,
+   "ebitda": 2251.23,
+   "revenue": 19657.59,
+   "ebitda_margin": 0.11452217693013234,
+   "pe": 59.13253012048193,
+   "ev_ebitda": 32.633398709238946,
+   "ev_sales": 3.737247860811015,
+   "pb": 10.374771204658567
+  },
+  "MSUMI": {
+   "name": "Motherson Sumi Wiring India Limited",
+   "price": 39.75,
+   "shares": 6631661898.0,
+   "market_cap": 26360.85604455,
+   "net_debt": 163.95999999999998,
+   "nci": 0.0,
+   "ev": 26524.81604455,
+   "ebitda": 1060.31,
+   "revenue": 11477.58,
+   "ebitda_margin": 0.09238097229555359,
+   "pe": 42.287234042553195,
+   "ev_ebitda": 25.016095334902058,
+   "ev_sales": 2.3110112100765146,
+   "pb": 12.19444608414172
+  },
+  "SONACOMS": {
+   "name": "Sona BLW Precision Forgings Limited",
+   "price": 787.0,
+   "shares": 622034837.0,
+   "market_cap": 48954.1416719,
+   "net_debt": -105.67699999999999,
+   "nci": 149.243,
+   "ev": 48997.707671899996,
+   "ebitda": 1106.8539999999998,
+   "revenue": 4475.148,
+   "ebitda_margin": 0.2473334960095174,
+   "pe": 76.40776699029125,
+   "ev_ebitda": 44.2675435711485,
+   "ev_sales": 10.948846311205795,
+   "pb": 8.182313202796225
+  }
+ },
+ "peer_summary": {
+  "pe": {
+   "median": 53.5277779998561,
+   "low": 42.287234042553195,
+   "high": 76.40776699029125
+  },
+  "ev_ebitda": {
+   "median": 29.038007575618238,
+   "low": 25.016095334902058,
+   "high": 44.2675435711485
+  },
+  "ev_sales": {
+   "median": 3.3516803420304138,
+   "low": 2.3110112100765146,
+   "high": 10.948846311205795
+  },
+  "pb": {
+   "median": 9.278542203727396,
+   "low": 6.5315872798514105,
+   "high": 12.19444608414172
+  }
+ },
+ "premium": {
+  "pe": -0.1608831161872335,
+  "ev_ebitda": -0.21362295082204286,
+  "ev_sales": 0.07049259872227887,
+  "pb": -0.4895030680313026
+ },
+ "proceeds": {
+  "gross_offer": 3066.8849999999998,
+  "fresh_gross": 1400.0,
+  "fresh_expenses": 73.019,
+  "net_proceeds": 1326.981,
+  "ofs": 1666.8849999999998,
+  "ofs_share_of_offer": 0.5435107609186519,
+  "fresh_share_of_offer": 0.45648923908134803,
+  "objects": {
+   "Repay company borrowings": 464.802,
+   "Repay subsidiary borrowings": 301.773,
+   "New wiring harness plants": 150.0,
+   "Acquisitions and general corporate purposes": 410.40600000000006
+  },
+  "objects_total": 1326.9810000000002,
+  "debt_repayment": 766.575,
+  "debt_repayment_pct_fy26_borrowings": 0.9110794968338183,
+  "net_debt_before": -254.45599999999996,
+  "net_debt_after": -1581.437,
+  "borrowings_fy26": 841.392,
+  "borrowings_after_repayment": 74.81700000000001,
+  "fresh_shares": 16080445.0,
+  "dilution": 0.07861450866776017,
+  "promoter_pct_pre": 0.8486548075963312,
+  "promoter_pct_post": 0.7036252414756499,
+  "promoter_and_group_pct_pre": 0.9999389815582743,
+  "promoter_and_group_pct_post": 0.827768850427164,
+  "public_float_post": 0.17223114957283603,
+  "offer_expenses_pct": 0.05215683013872382
+ },
+ "demand": {
+  "final_by_category": {
+   "QIB (ex-anchor)": 212.91517442336553,
+   "NII": 51.9305627691821,
+   "NII >10 lakh": 58.07381626871712,
+   "NII 2-10 lakh": 39.64405235273568,
+   "Retail": 8.121833518561711,
+   "Employee": 8.14410905550146,
+   "Total": 74.20839266522931
+  },
+  "registrar_by_category": {
+   "Retail": 8.37,
+   "NII 2-10 lakh": 41.13,
+   "NII >10 lakh": 59.91,
+   "Employee": 8.59,
+   "QIB (ex-anchor)": 208.77,
+   "Anchor": 1.01,
+   "Total incl. anchor": 52.94
+  },
+  "anchor_share_of_qib": 0.5999999658530123,
+  "anchor_share_of_offer": 0.29935382277160344,
+  "anchor_mf_share": 0.6127472419903256,
+  "listing_close": 1187.05,
+  "listing_gain_per_share": 316.04999999999995,
+  "listing_gain_pct": 0.3628587830080367,
+  "money_left_on_table": 1113.0663754349998,
+  "money_left_fresh": 508.2224642249999,
+  "money_left_ofs": 604.84391121
+ },
+ "aftermarket": {
+  "Listing day": {
+   "date": "2026-08-17",
+   "DHOOTTRANS": 0.36285878300803676,
+   "NIFTY 50": -0.006068927133997204,
+   "NIFTY AUTO": -0.006298732590790168,
+   "excess_vs_NIFTY 50": 0.36892771014203396,
+   "excess_vs_NIFTY AUTO": 0.3691575155988269
+  },
+  "+30 days": {
+   "date": "2026-09-16",
+   "DHOOTTRANS": 0.8265212399540758,
+   "NIFTY 50": -0.049858916882707716,
+   "NIFTY AUTO": -0.08409889299647,
+   "excess_vs_NIFTY 50": 0.8763801568367835,
+   "excess_vs_NIFTY AUTO": 0.9106201329505458
+  },
+  "+90 days": null,
+  "+180 days": null,
+  "Latest (+87 days)": {
+   "date": "2026-11-12",
+   "DHOOTTRANS": 0.8677382319173363,
+   "NIFTY 50": 0.0353331873735212,
+   "NIFTY AUTO": -0.038553556255225496,
+   "excess_vs_NIFTY 50": 0.8324050445438151,
+   "excess_vs_NIFTY AUTO": 0.9062917881725618
+  }
+ },
+ "my_range": {
+  "low": {
+   "discount": 0.25,
+   "ev_ebitda": 21.77850568171368,
+   "pe": 40.14583349989208,
+   "price_ev_ebitda": 834.2834552633237,
+   "price_pe": 778.4970277701632,
+   "price": 806.3902415167435
+  },
+  "high": {
+   "discount": 0.15,
+   "ev_ebitda": 24.6823064392755,
+   "pe": 45.49861129987768,
+   "price_ev_ebitda": 935.2167238114636,
+   "price_pe": 882.2966314728515,
+   "price": 908.7566776421575
+  },
+  "recommended_band": {
+   "low": {
+    "price": 860.0,
+    "post_shares": 204746681.0,
+    "market_cap": 17608.214566,
+    "net_debt_pre": -254.45599999999996,
+    "net_debt_post": -1581.437,
+    "nci": 0.609,
+    "ev": 16027.386566,
+    "pe": 44.39187444473016,
+    "ev_ebitda": 22.542383308321224,
+    "ev_sales": 3.5419991062894547,
+    "pb": 4.681388587473078,
+    "pe_rhp_basis": 35.24590163934426
+   },
+   "high": {
+    "price": 910.0,
+    "post_shares": 203852227.0,
+    "market_cap": 18550.552657,
+    "net_debt_pre": -254.45599999999996,
+    "net_debt_post": -1581.437,
+    "nci": 0.609,
+    "ev": 16969.724657000002,
+    "pe": 46.767592554216016,
+    "ev_ebitda": 23.867773843195888,
+    "ev_sales": 3.7502526891427657,
+    "pb": 4.931922266978933,
+    "pe_rhp_basis": 37.295081967213115
+   }
+  }
+ }
+}
